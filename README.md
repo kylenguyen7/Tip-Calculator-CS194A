@@ -19,6 +19,7 @@ The following **extensions** are implemented:
 
 * [X] Custom colors palette selected
 * [X] User can optionally split the bill over multiple people
+* [X] The user sees the number of people in the party, whose expressions update based on tip amount.
 
 ## Video Walkthrough
 
